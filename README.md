@@ -17,5 +17,5 @@ A simple Python library for commonly used mathematical functions, including numb
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/math_helper.git
+git clone https://github.com/TanmayJaiswal-IITBH/math_helper.git
 cd math_helper
